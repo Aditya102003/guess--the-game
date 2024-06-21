@@ -1,0 +1,10 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#options-container > div{
+    height:80px;
+    width: 80px;
+margin:5px;
+border-radius: 5px;
+display:flex
+}
